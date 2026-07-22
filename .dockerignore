@@ -1,0 +1,6 @@
+__pycache__/
+.git/
+.github/
+tests/
+*.md
+.DS_Store
